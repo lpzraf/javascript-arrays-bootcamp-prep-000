@@ -6,5 +6,7 @@ function addElementToBeginningOfArray(array, element) { element = [element]; con
   return array;
 }
 
+function addElementToBeginningOfArray=("array","element")
 
+function addElementToBeginningOfArray.unshift("element")
 
